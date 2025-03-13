@@ -22,7 +22,7 @@ A classic **Snake Game** built using **HTML**, **CSS**, and **JavaScript**. 🎮
 2. Open the `index.html` file in your browser.
 
 ## 📸 Screenshots
-![Snake Game Screenshot](#) *(https://github.com/dishagiri23/Snake-Game/blob/5d38cfe45cfa2b3844cbec51e7e2b37bf66a515b/snake.png)*
+![Snake Game Screenshot](https://github.com/dishagiri23/Snake-Game/blob/5d38cfe45cfa2b3844cbec51e7e2b37bf66a515b/snake.png)*
 
 ## 🛠️ Future Improvements
 - 🔄 Add difficulty levels
